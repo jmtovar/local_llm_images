@@ -12,6 +12,11 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+Prereleases:
+
+- 0.1.0-alpha.1 (2026-10-11): first published images, for testing on a Singularity
+  host.
+
 ### Added
 
 - `ollama-base`, `ollama-ministral-3-3b` and `ollama-gemma4-e4b` images: Ollama 0.40.2
